@@ -37,7 +37,11 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+<<<<<<< HEAD
       \field{title}{Versuchsanleitung-Das Relaxationsverhalten eines RC-Kreises}
+=======
+      \field{title}{Versuchsanleitung-Wärmeleitung von Metallen}
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
       \true{nocite}
     \endentry
     \entry{matplotlib}{article}{}

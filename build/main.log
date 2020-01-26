@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.9)  24 JAN 2020 16:06
+=======
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.21)  24 JAN 2020 16:17
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -37,8 +41,13 @@ Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' at position 4 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'.
+<<<<<<< HEAD
 luaotfload | main : initialization completed in 0.124 seconds
 (./header.tex (/home/mira/.local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+=======
+luaotfload | main : initialization completed in 0.164 seconds
+(./header.tex (/home/nico/.local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
 (/home/mira/.local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
@@ -1639,63 +1648,131 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 15.
 \openout4 = main.toc
  [2
 
+<<<<<<< HEAD
 ] (./content/ziel.tex) (./content/theorie.tex
 
 LaTeX Warning: Citation 'sample2' on page 3 undefined on input line 21.
 
 [3]) (./content/durchfuehrung.tex) (./content/auswertung.tex
 <plot1.pdf, id=52, 417.7206pt x 258.0049pt>
+=======
+] (./content/ziel.tex) (./content/theorie.tex [3]) (./content/durchfuehrung.tex
+
+Package caption Warning: \label without proper reference on input line 21.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:durchfuehrungbild1' on page 4 undefined on input line 8.
+
+<content/durchfuehrung1.png, id=60, 1346.02875pt x 756.57657pt>
+File: content/durchfuehrung1.png Graphic file (type png)
+<use content/durchfuehrung1.png>
+Package luatex.def Info: content/durchfuehrung1.png  used on input line 20.
+(luatex.def)             Requested size: 369.88582pt x 207.90335pt.
+[4]
+<content/204.jpg, id=72, 1604.99625pt x 1204.5pt>
+File: content/204.jpg Graphic file (type jpg)
+<use content/204.jpg>
+Package luatex.def Info: content/204.jpg  used on input line 43.
+(luatex.def)             Requested size: 284.52756pt x 213.52914pt.
+ [5<./content/durchfuehrung1.png>]
+
+LaTeX Warning: Reference `durchfuehrungbild2' on page 6 undefined on input line 55.
+
+) (./content/auswertung.tex
+<plot1.pdf, id=78, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: plot1.pdf Graphic file (type pdf)
 <use plot1.pdf>
 Package luatex.def Info: plot1.pdf  used on input line 6.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [4]
 <plot2.pdf, id=61, 417.7206pt x 258.0049pt>
+=======
+<plot2.pdf, id=79, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: plot2.pdf Graphic file (type pdf)
 <use plot2.pdf>
 Package luatex.def Info: plot2.pdf  used on input line 13.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [5<build/plot1.pdf>]
 <diff1.pdf, id=91, 417.7206pt x 258.0049pt>
+=======
+<diff1.pdf, id=80, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: diff1.pdf Graphic file (type pdf)
 <use diff1.pdf>
 Package luatex.def Info: diff1.pdf  used on input line 20.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [6<build/plot2.pdf>]
 <diff2.pdf, id=121, 417.7206pt x 258.0049pt>
+=======
+<diff2.pdf, id=81, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: diff2.pdf Graphic file (type pdf)
 <use diff2.pdf>
 Package luatex.def Info: diff2.pdf  used on input line 27.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [7<build/diff1.pdf>]
 <plot3.pdf, id=151, 417.7206pt x 258.0049pt>
+=======
+<plot3.pdf, id=82, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: plot3.pdf Graphic file (type pdf)
 <use plot3.pdf>
 Package luatex.def Info: plot3.pdf  used on input line 35.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [8<build/diff2.pdf>]
 <plot4.pdf, id=182, 417.7206pt x 258.0049pt>
+=======
+<plot4.pdf, id=83, 417.7206pt x 258.0049pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: plot4.pdf Graphic file (type pdf)
 <use plot4.pdf>
 Package luatex.def Info: plot4.pdf  used on input line 43.
 (luatex.def)             Requested size: 417.71957pt x 258.00426pt.
+<<<<<<< HEAD
  [9<build/plot3.pdf>]) (./content/diskussion.tex) (./content/anhang.tex
 <content/anhang.jpg, id=212, 2952.02875pt x 1595.9625pt>
+=======
+) (./content/diskussion.tex [6<./content/204.jpg>] [7<build/plot1.pdf><build/plot2.pdf>] [8<build/diff1.pdf><build/diff2.pdf>] [9<build/plot3.pdf><build/plot4.pdf>]) (./content/anhang.tex
+<content/anhang.jpg, id=254, 2952.02875pt x 1595.9625pt>
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 File: content/anhang.jpg Graphic file (type jpg)
 <use content/anhang.jpg>
 Package luatex.def Info: content/anhang.jpg  used on input line 5.
 (luatex.def)             Requested size: 369.88582pt x 199.95752pt.
+<<<<<<< HEAD
 ) [10<build/plot4.pdf><./content/anhang.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
  [11]
+=======
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
+ [10<./content/anhang.jpg>]
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
  (./build/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.aux' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 5D4B459B24E623165CC30C48218B13E6;6500.
 Package rerunfilecheck Info: File `main.toc' has not changed.
 (rerunfilecheck)             Checksum: 4B797093C560FDEC6554AE1F72BE7753;588.
+=======
+(rerunfilecheck)             Checksum: 0489FE8AE3398BCEC7242555AB961EF3;7396.
+Package rerunfilecheck Info: File `main.toc' has not changed.
+(rerunfilecheck)             Checksum: 09A52462B9BC8A026C14736279C1CB81;834.
+
+
+LaTeX Warning: There were undefined references.
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 
 
 LaTeX Warning: There were undefined references.
@@ -1711,6 +1788,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD
  43703 strings out of 494291
  100000,1977958 words of node,token memory allocated
  776 words of node memory still in use:
@@ -1726,4 +1804,21 @@ PDF statistics: 359 PDF objects out of 1000 (max. 8388607)
  249 compressed objects within 3 object streams
  41 named destinations out of 1000 (max. 131072)
  57 words of extra memory for PDF output out of 10000 (max. 100000000)
+=======
+ 43857 strings out of 494291
+ 100000,1977958 words of node,token memory allocated
+ 781 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 52 attribute, 80 glue_spec, 28 attribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 1:3,2:669,3:124,4:18,5:243,6:28,7:2324,8:61,9:212,10:10,11:249
+ 46874 multiletter control sequences out of 65536+600000
+ 150 fonts using 55254719 bytes
+ 57i,8n,109p,9101b,2933s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf></home/nico/.local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf>
+Output written on main.pdf (10 pages, 1640579 bytes).
+
+PDF statistics: 379 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 131072)
+ 81 words of extra memory for PDF output out of 10000 (max. 100000000)
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 

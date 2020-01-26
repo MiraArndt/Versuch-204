@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 PWD /home/mira/Documents/Latex/Versuch-204
 INPUT /home/mira/.local/texlive/2019/texmf-var/web2c/luatex/lualatex.fmt
+=======
+PWD /mnt/c/Users/nicos/Desktop/Praktikum/Versuch-204/Versuch-204
+INPUT /home/nico/.local/texlive/2019/texmf-var/web2c/luatex/lualatex.fmt
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 INPUT ./main.tex
 OUTPUT build/main.log
 INPUT /home/mira/.local/texlive/2019/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua
@@ -336,6 +341,22 @@ INPUT /home/mira/.local/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/lm
 INPUT /home/mira/.local/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc
 INPUT ./content/durchfuehrung.tex
 INPUT ./content/durchfuehrung.tex
+INPUT ./content/durchfuehrung1.png
+INPUT ./content/durchfuehrung1.png
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./content/204.jpg
+INPUT ./content/204.jpg
 INPUT ./content/auswertung.tex
 INPUT ./content/auswertung.tex
 INPUT build/plot1.pdf
@@ -356,7 +377,11 @@ INPUT ./content/anhang.tex
 INPUT ./content/anhang.tex
 INPUT ./content/anhang.jpg
 INPUT ./content/anhang.jpg
+<<<<<<< HEAD
 INPUT /home/mira/.local/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
+=======
+INPUT /home/nico/.local/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
 INPUT build/main.aux
 INPUT build/main.run.xml
 OUTPUT build/main.run.xml
