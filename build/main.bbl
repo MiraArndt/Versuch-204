@@ -19,6 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+<<<<<<< HEAD
     \entry{sample2}{manual}{}
       \name{author}{1}{}{%
         {{hash=2821a70f99517ac7757c95300d43e95c}{%
@@ -40,6 +41,54 @@
       \field{labeltitlesource}{title}
       \field{title}{Versuchsanleitung-Das Dulong-Petitsche Gesetz}
     \endentry
+||||||| merged common ancestors
+=======
+    \entry{chemieMessing}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeltitlesource}{title}
+      \field{title}{Chemie.de}
+      \verb{urlraw}
+      \verb https://www.chemie.de/lexikon/Messing.html
+      \endverb
+      \verb{url}
+      \verb https://www.chemie.de/lexikon/Messing.html
+      \endverb
+    \endentry
+    \entry{chemieAluminium}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeltitlesource}{title}
+      \field{title}{Chemie.de}
+      \verb{urlraw}
+      \verb https://www.chemie.de/lexikon/Aluminium.html
+      \endverb
+      \verb{url}
+      \verb https://www.chemie.de/lexikon/Aluminium.html
+      \endverb
+    \endentry
+    \entry{sample2}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=2821a70f99517ac7757c95300d43e95c}{%
+           family={Dortmund},
+           familyi={D\bibinitperiod},
+           given={TU},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2821a70f99517ac7757c95300d43e95c}
+      \strng{fullhash}{2821a70f99517ac7757c95300d43e95c}
+      \strng{bibnamehash}{2821a70f99517ac7757c95300d43e95c}
+      \strng{authorbibnamehash}{2821a70f99517ac7757c95300d43e95c}
+      \strng{authornamehash}{2821a70f99517ac7757c95300d43e95c}
+      \strng{authorfullhash}{2821a70f99517ac7757c95300d43e95c}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Versuchsanleitung-Das Dulong-Petitsche Gesetz}
+    \endentry
+>>>>>>> 9f57709ad090ad475529ccdf5b306d1b50afea0d
     \entry{sample}{manual}{}
       \name{author}{1}{}{%
         {{hash=2821a70f99517ac7757c95300d43e95c}{%
@@ -60,7 +109,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Versuchsanleitung-Wärmeleitung von Metallen}
+<<<<<<< HEAD
       \true{nocite}
+||||||| merged common ancestors
+>>>>>>> 1e035c09969b4b257d602a2fc6530e5958043987
+      \true{nocite}
+=======
+>>>>>>> 9f57709ad090ad475529ccdf5b306d1b50afea0d
     \endentry
     \entry{matplotlib}{article}{}
       \name{author}{1}{}{%
@@ -202,6 +257,42 @@
       \endverb
       \verb{url}
       \verb http://www.numpy.org/
+      \endverb
+    \endentry
+    \entry{schweiz}{online}{}
+      \field{sortinit}{s}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labeltitlesource}{title}
+      \field{title}{schweizer-fn.de}
+      \verb{urlraw}
+      \verb https://www.schweizer-fn.de/stoff/wleit_metall/wleit_metall.php
+      \endverb
+      \verb{url}
+      \verb https://www.schweizer-fn.de/stoff/wleit_metall/wleit_metall.php
+      \endverb
+    \endentry
+    \entry{chemieTabelle}{online}{}
+      \field{sortinit}{w}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labeltitlesource}{title}
+      \field{title}{wikibooks}
+      \verb{urlraw}
+      \verb https://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_spezifische_W%C3%A4rmekapazit%C3%A4ten
+      \endverb
+      \verb{url}
+      \verb https://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_spezifische_W%C3%A4rmekapazit%C3%A4ten
+      \endverb
+    \endentry
+    \entry{chemieDichte}{online}{}
+      \field{sortinit}{w}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labeltitlesource}{title}
+      \field{title}{wikibooks}
+      \verb{urlraw}
+      \verb https://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Dichte_fester_Stoffe
+      \endverb
+      \verb{url}
+      \verb https://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Dichte_fester_Stoffe
       \endverb
     \endentry
   \enddatalist

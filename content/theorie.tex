@@ -2,10 +2,10 @@
 \label{sec:Theorie}
 
 Wenn sich die Temperatur innerhalb eines Körpers nicht in einem Gleichgewichtszustand
-befindet, trifft ein Wärmetransport in Form von mindestens einer der drei Möglichkeiten 
+befindet, tritt ein Wärmetransport in Form von mindestens einer der drei Möglichkeiten 
 Konvektion, Wärmestrahlung und Wärmeleitung auf.
 Wird ein Stab, mit Länge $L$, dem Querschnitt $A$, der Dichte $\rho$ und der spezifischen 
-Wärme $c$ so erhitzt, dass er zum Beispiel an einem Ende wärme ist, als am anderen, so 
+Wärme $c$ so erhitzt, dass er zum Beispiel an einem Ende wärmer ist, als an dem anderen, so 
 fließt innerhalb der Zeit $\operatorname{d}t$ die Wärmemenge 
 \begin{equation}
     \symup{d}Q = -\kappa A \frac{\partial T}{\partial x} \symup{d}t
@@ -26,7 +26,7 @@ Fall lässt sich die Wärmestromdichte $j$ als
 \noindent berechnen. Werden nun die Gleichungen \ref{eq:waermestromdichte} und \ref{eq:waerme}
 in die Kontinuitätsgleichung 
 \begin{equation}
-    \frac{\frac{\partial Q}{\partial V}}{\partial t} + \nabla \vec{j} = 0
+    \frac{\left( \frac{\partial Q}{\partial V} \right) }{\partial t} + \nabla \vec{j} = 0
 \end{equation}
 \noindent eingesetzt (V steht für das Volumen), so ergibt sich die eindimensionale 
 Wärmeleitungsgleichung
@@ -36,7 +36,7 @@ Wärmeleitungsgleichung
 \noindent Mithilfe dieser Gleichung lässt sich die räumliche und zeitliche Temperaturentwicklung 
 in dem zu untersuchenden Köper beschreiben. Die Lösung ist abhängig von Anfangsbedingungen 
 und der Stabgeometrie. Weiterhin wird die Temperaturleitfähigkeit, ein Maß
-zur Angabe, wie schnell ein Temperaturausgleich zustande kommt, als
+dafür, wie schnell ein Temperaturausgleich zustande kommt, als
 \begin{equation}
     \sigma_{T} = \frac{\kappa}{\rho c}
 \end{equation}
@@ -50,15 +50,16 @@ ergibt sich die allgemeine Lösung
     v = \frac{\omega}{k} = \sqrt{ \frac{2 \kappa \omega}{\rho c} }
 \end{equation}
 \noindent in dem Stab ausbreitet. Die Dämpfung dieser Welle lässt sich über das Verhältnis der
-Amplituden $A_1$ und $A_2$ an den Stellen $x_1$ und $x_2$ bestimmen. Werden zusätzlich
+Amplituden $A_{nah}$ und $A_{fern}$ an den Stellen $x_{nah}$ und $x_{fern}$ bestimmen. Werden zusätzlich
 $\omega = \frac{2 \pi}{T^*}$ ($T^*$ gibt die Periodendauer der Wärmewelle an) und 
-$\Phi = \frac{2 \pi \Delta t}{T^*}$ verwendet, lässt die die Wärmeleitfähigkeit $\kappa$ 
+$\Phi = \frac{2 \pi \Delta t}{T^*}$ verwendet, lässt sich die Wärmeleitfähigkeit $\kappa$ 
 über
 \begin{equation}
-    \kappa = \frac{\rho c (\Delta x)^2}{2 \Delta t \ln{\frac{A_1}{A_2}}}
+    \kappa = \frac{\rho c (\Delta x)^2}{2 \Delta t \ln{\frac{A_{nah}}{A_{fern}}}}
+    \label{eq:kappa}
 \end{equation}
-\noindent errechnet werden. Hierbei gilt 
+\noindent errechnen. Hierbei gilt 
 \begin{align}
-    \Delta x = x_2 - x_1 \nonumber \\
+    \Delta x = x_{fern} - x_{nah} \nonumber \\
     \Delta t = t_2 - t_1 \nonumber.
 \end{align}
